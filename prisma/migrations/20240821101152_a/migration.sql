@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `task` ADD COLUMN `isDone` INTEGER NOT NULL DEFAULT 0;
